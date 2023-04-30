@@ -1,3 +1,4 @@
+#Este es el intento en el mismo 
 print("Hola","soy",1,sep="")
 print("Hola"+"soy"+"1")
 print("Dan\viela")
